@@ -165,7 +165,7 @@ journalctl -f
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Multi-OS PXE boot menu
 * Static IP assignment via DHCP reservations
